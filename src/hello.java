@@ -1,4 +1,4 @@
 void main() {
-    IO.println("HELLO VISTULA ");
+    IO.println("HELLo VISTULA ");
 
 }
